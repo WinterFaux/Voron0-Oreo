@@ -3,6 +3,8 @@ Klipper backup script for manual or automated GitHub backups
 
 This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/klipper-backup).
 
+Serial: V0.3862
+
 MOD LIST
 
 Hextrudort CNC Extruder
