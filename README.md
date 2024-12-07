@@ -21,3 +21,6 @@ Self Designed Umbilical
 
 PG7 Springo
   https://www.printables.com/model/624449-pg7-gland-springo
+
+Z Cover
+  https://www.printables.com/model/517162-voron-02-z-motor-cover-plate
